@@ -1,0 +1,7 @@
+#Sat Oct 17 18:51:10 BRT 2026
+base.1=E\:\\Users\\Bea\\Desktop\\HamburgueriaZ\\HamburgueriaZ\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+path.1=9/classes.dex
+base.0=E\:\\Users\\Bea\\Desktop\\HamburgueriaZ\\HamburgueriaZ\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

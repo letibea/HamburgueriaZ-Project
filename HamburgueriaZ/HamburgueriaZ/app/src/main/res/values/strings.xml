@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HamburgueriaZ</string>
+    <string name="brand_name">HAMBURGUERIAZ</string>
+    <string name="page_title">Monte seu pedido</string>
+    <string name="page_subtitle">Escolha seus adicionais e aproveite.</string>
+    <string name="logo_description">Logo da HamburgueriaZ com ilustração de hambúrguer</string>
+    <string name="order_heading">Faça seu pedido</string>
+    <string name="name_label">Nome do cliente</string>
+    <string name="name_hint">Digite seu nome</string>
+    <string name="add_ons_label">Adicionais por hambúrguer</string>
+    <string name="bacon">Bacon</string>
+    <string name="cheese">Queijo</string>
+    <string name="onion_rings">Onion rings</string>
+    <string name="bacon_price">+ R$ 2,00</string>
+    <string name="cheese_price">+ R$ 2,00</string>
+    <string name="onion_rings_price">+ R$ 3,00</string>
+    <string name="quantity_heading">Quantidade</string>
+    <string name="quantity_description">Hambúrgueres no pedido</string>
+    <string name="decrease_quantity_description">Diminuir quantidade</string>
+    <string name="increase_quantity_description">Aumentar quantidade</string>
+    <string name="minus">−</string>
+    <string name="plus">+</string>
+    <string name="quantity_accessibility">Quantidade: %1$d</string>
+    <string name="summary_heading">Resumo do pedido</string>
+    <string name="total_label">Valor total</string>
+    <string name="initial_total">R$ 0,00</string>
+    <string name="summary_placeholder">Seu resumo aparece aqui depois que você tocar em Enviar pedido.</string>
+    <string name="send_order">ENVIAR PEDIDO</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="name_required">Informe o nome do cliente.</string>
+    <string name="quantity_required">Adicione pelo menos 1 hambúrguer ao pedido.</string>
+    <string name="order_summary_format">Nome do cliente: %1$s\nTem Bacon? %2$s\nTem Queijo? %3$s\nTem Onion Rings? %4$s\nQuantidade: %5$d\nPreço final: %6$s</string>
+    <string name="email_subject">Pedido de %1$s</string>
+    <string name="email_chooser_title">Enviar pedido por e-mail</string>
+    <string name="no_email_app">Não encontramos um aplicativo de e-mail neste aparelho.</string>
+</resources>

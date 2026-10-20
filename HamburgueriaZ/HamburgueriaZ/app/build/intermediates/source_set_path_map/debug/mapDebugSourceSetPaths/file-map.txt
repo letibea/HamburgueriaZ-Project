@@ -1,0 +1,7 @@
+com.example.hamburgueriaz.app-pngs-0 E:\Users\Bea\Desktop\HamburgueriaZ\HamburgueriaZ\app\build\generated\res\pngs\debug
+com.example.hamburgueriaz.app-resValues-1 E:\Users\Bea\Desktop\HamburgueriaZ\HamburgueriaZ\app\build\generated\res\resValues\debug
+com.example.hamburgueriaz.app-packageDebugResources-2 E:\Users\Bea\Desktop\HamburgueriaZ\HamburgueriaZ\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.hamburgueriaz.app-packageDebugResources-3 E:\Users\Bea\Desktop\HamburgueriaZ\HamburgueriaZ\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.hamburgueriaz.app-debug-4 E:\Users\Bea\Desktop\HamburgueriaZ\HamburgueriaZ\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.hamburgueriaz.app-debug-5 E:\Users\Bea\Desktop\HamburgueriaZ\HamburgueriaZ\app\src\debug\res
+com.example.hamburgueriaz.app-main-6 E:\Users\Bea\Desktop\HamburgueriaZ\HamburgueriaZ\app\src\main\res

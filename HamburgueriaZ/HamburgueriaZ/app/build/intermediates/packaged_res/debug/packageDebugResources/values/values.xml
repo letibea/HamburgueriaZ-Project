@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="burger_orange">#E66B2E</color>
+    <color name="burger_orange_dark">#B94A1A</color>
+    <color name="divider">#F0E2D6</color>
+    <color name="espresso">#2D1B13</color>
+    <color name="input_stroke">#E8D9CD</color>
+    <color name="surface_cream">#FFF7EF</color>
+    <color name="text_muted">#78685F</color>
+    <color name="white">#FFFFFF</color>
+    <string name="add_ons_label">Adicionais por hambúrguer</string>
+    <string name="app_name">HamburgueriaZ</string>
+    <string name="bacon">Bacon</string>
+    <string name="bacon_price">+ R$ 2,00</string>
+    <string name="brand_name">HAMBURGUERIAZ</string>
+    <string name="cheese">Queijo</string>
+    <string name="cheese_price">+ R$ 2,00</string>
+    <string name="decrease_quantity_description">Diminuir quantidade</string>
+    <string name="email_chooser_title">Enviar pedido por e-mail</string>
+    <string name="email_subject">Pedido de %1$s</string>
+    <string name="increase_quantity_description">Aumentar quantidade</string>
+    <string name="initial_total">R$ 0,00</string>
+    <string name="logo_description">Logo da HamburgueriaZ com ilustração de hambúrguer</string>
+    <string name="minus">−</string>
+    <string name="name_hint">Digite seu nome</string>
+    <string name="name_label">Nome do cliente</string>
+    <string name="name_required">Informe o nome do cliente.</string>
+    <string name="no">Não</string>
+    <string name="no_email_app">Não encontramos um aplicativo de e-mail neste aparelho.</string>
+    <string name="onion_rings">Onion rings</string>
+    <string name="onion_rings_price">+ R$ 3,00</string>
+    <string name="order_heading">Faça seu pedido</string>
+    <string name="order_summary_format">Nome do cliente: %1$s\nTem Bacon? %2$s\nTem Queijo? %3$s\nTem Onion Rings? %4$s\nQuantidade: %5$d\nPreço final: %6$s</string>
+    <string name="page_subtitle">Escolha seus adicionais e aproveite.</string>
+    <string name="page_title">Monte seu pedido</string>
+    <string name="plus">+</string>
+    <string name="quantity_accessibility">Quantidade: %1$d</string>
+    <string name="quantity_description">Hambúrgueres no pedido</string>
+    <string name="quantity_heading">Quantidade</string>
+    <string name="quantity_required">Adicione pelo menos 1 hambúrguer ao pedido.</string>
+    <string name="send_order">ENVIAR PEDIDO</string>
+    <string name="summary_heading">Resumo do pedido</string>
+    <string name="summary_placeholder">Seu resumo aparece aqui depois que você tocar em Enviar pedido.</string>
+    <string name="total_label">Valor total</string>
+    <string name="yes">Sim</string>
+    <style name="EstiloTexto">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:textColor">@color/espresso</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Theme.HamburgueriaZ" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/burger_orange</item>
+        <item name="android:statusBarColor">@color/espresso</item>
+        <item name="android:navigationBarColor">@color/espresso</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/surface_cream</item>
+    </style>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="espresso">#2D1B13</color>
+    <color name="text_muted">#78685F</color>
+    <color name="burger_orange">#E66B2E</color>
+    <color name="burger_orange_dark">#B94A1A</color>
+    <color name="surface_cream">#FFF7EF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="divider">#F0E2D6</color>
+    <color name="input_stroke">#E8D9CD</color>
+</resources>
